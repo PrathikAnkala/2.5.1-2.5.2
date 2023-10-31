@@ -21,7 +21,7 @@ public class  Board
     phrase = loadPhrase();
     phrase = "";
     setLetterValue();
-    System.out.println("Phrase: " + phrase); //temp test code
+    System.out.println("Phrase: " + phrase); 
   }
   /* your code here - accessor(s) */
   
