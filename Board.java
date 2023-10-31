@@ -1,7 +1,9 @@
 /*
  * Activity 2.5.2
- *
- * A Board class the PhraseSolverGame
+ * Prathik Ankala 
+ * Tanay Kotian
+ * A Board class for the PhraseSolverGame
+ * 10/30/23
  */
 import java.util.Scanner;
 import java.io.File;
